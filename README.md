@@ -4,11 +4,11 @@
 - A C-based calculator capable of doing the four basic mathematical operations.
 
 ## 2.Images:
-![alt text](image1.png)
+![alt text](Imagens/image1.png)
 
-![alt text](image2.png)
+![alt text](Imagens/image2.png)
 
-![alt text](image3.png)
+![alt text](Imagens/image3.png)
 
 ## System Requirements & Installation:
 - The minimal requirements to run the app is a 64 bits Windows. 

@@ -21,8 +21,15 @@
 
 ## 5.Structure:
     ```
-    Calculator  
-    │── main.c
+    Calculadora-em-C/  
+    │── Caculadora.c
+    │── Calculadora.exe
+    │── LICENSE
+    │── README.md
+    │── Imagens/
+        │── image1.png
+        │── image2.png
+        │── image3.png
 
     ```
 - The project is composed by a single code archive which is written in C language. The archive contains all the base code to the calculator operation.
